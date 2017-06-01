@@ -14,7 +14,7 @@ If on picroft just skip the workon part and the directory will be /opt/mycroft/s
 
 ```
 cd ~/.mycroft/skills
-
+https://github.com/eClarity/skill-pollen
 workon mycroft
 cd PollenSkill
 pip install -r requirements.txt
